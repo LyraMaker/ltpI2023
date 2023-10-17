@@ -8,3 +8,5 @@ $metadeDiferenca = ($numero1-$numero2)/2;
 
 echo "A média aritmética de $numero1 e $numero 2 é $mediaAritmetica";
 echo "A metade da diferença de $numero1 e $numero 2 é $metadeDiferenca";
+?>
+
